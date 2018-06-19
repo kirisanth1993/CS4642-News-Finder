@@ -1,0 +1,1 @@
+{"newsFileName": "20354-president-s-may-day-message", "heading": "President\u2019s May Day message", "newsDate": "01", "newsMonth": "May", "publishedCategory": "President - Parliament - Prime Minister", "firstContent": "", "nextContent": "", "externalNewsLink": "\u00ab Prime Minister\u2019s May Day message"}
